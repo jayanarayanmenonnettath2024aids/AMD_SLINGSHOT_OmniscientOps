@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+llama-cpp-python
+onnxruntime
+pytesseract
+pdfplumber
+Pillow
+sentence-transformers
+langchain
+chromadb
+sqlite3-binary
+indic-transliteration
+transformers
+torch

@@ -1,0 +1,6 @@
+2026-02-27 20:53:08,690 - nyayai - INFO - Database initialized successfully.
+2026-02-27 20:56:08,444 - nyayai - INFO - Database initialized successfully.
+2026-02-27 20:56:08,489 - nyayai - INFO - NyayAI Backend Started Successfully in Offline Mode.
+2026-02-27 20:57:52,279 - nyayai - INFO - Translating text to English using IndicTrans2
+2026-02-27 20:57:52,549 - nyayai - WARNING - Model not found at C:\Users\JAYAN\Downloads\amd slingshot\nyayai-backend\data\models\nyayai_legal.gguf. Inference will fail in production.
+2026-02-27 20:57:52,550 - nyayai - INFO - Translating text to english using IndicTrans2
